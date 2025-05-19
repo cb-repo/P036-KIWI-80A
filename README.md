@@ -1,10 +1,14 @@
-# P036-KIWI-80A v1.0 *\*beta\**
+# KIWI - 80A v1.0
 
-<img src="assets/KIWI_Front.JPG" width="300"> <img src="assets/KIWI_Rear.JPG" width="300"> <img src="assets/kiwi.jpg" width="300">
+<img src="assets/KIWI_FRONT.JPG" width="300"> <img src="assets/KIWI_Back.JPG" width="300"> 
 
-KIWI-80A is an 80A AM32 brushless speed controller (BLDC ESC): designed specifically for combat robotics but is perfect any application requiring an compact and powerful brushless controler.
+<img src="assets/kiwi.jpg" width="300">
 
-The product was developed and tested in [Christchurch, New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand), by Connor Benton, and is named from the iconic flightless bird endemic to New Zealand: the [Kiwi](https://en.wikipedia.org/wiki/Kiwi_(bird))
+The KIWI is a compact and powerful brushless speed controller (BLDC ESC), purpose-built for combat robotics and ideal for any high-demand application requiring precise, high-current motor control. It runs AM32 firmware, offering smooth throttle response, dynamic braking, and configurability via standard serial protocols, ready to drop into any serious robot build.
+
+The product is named after the [Kiwi](https://en.wikipedia.org/wiki/Kiwi_(bird)), the iconic flightless bird endemic to New Zealand.
+
+Developed, assembled, and tested in [Christchurch, New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand), by Connor Benton.
 
 ## FEATURES
 
@@ -19,7 +23,7 @@ The product was developed and tested in [Christchurch, New Zealand](https://www.
 
 ## SPECIFICATIONS
 
-- **Dimensions:** 35x18x8 mm 
+- **Dimensions:** 35x18x9mm *incl heatsink*
 - **Weight:** 9g *bare*, 14g *incl provided capacitor+wires*
 - **Voltage Input:** 2-8S LiPo (6.0-33.6V)
 - **Current Output - Continuious:** 80A  
