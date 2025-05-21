@@ -1,6 +1,6 @@
 # KIWI - 80A v1.0
 
-<img src="assets/KIWI_FRONT.JPG" width="300"> <img src="assets/KIWI_Back.JPG" width="300"> 
+<img src="assets/KIWI_Front.JPG" width="300"> <img src="assets/KIWI_Back.JPG" width="300"> 
 
 <img src="assets/kiwi.jpg" width="300">
 
@@ -26,8 +26,7 @@ Developed, assembled, and tested in [Christchurch, New Zealand](https://www.goog
 - **Dimensions:** 35x18x9mm *incl heatsink*
 - **Weight:** 9g *bare*, 14g *incl provided capacitor+wires*
 - **Voltage Input:** 2-8S LiPo (6.0-33.6V)
-- **Current Output - Continuious:** 80A  
-- **Current Output - Burst:** 90A
+- **Current Output:** 80A  
 - **Signal Input:** DShot (300/600), PWM, OneShot, Multishot
 - **AM32 Version:** [v2.18](https://github.com/am32-firmware/AM32/releases/tag/v2.18)
 
@@ -37,10 +36,6 @@ Developed, assembled, and tested in [Christchurch, New Zealand](https://www.goog
 - 1x 35V 470uF capacitor
 - 1x 90mm 16AWG power input cable *\*pair\**
 - 1x 90mm 3p DuPoint signal input cable
-
-<!-- ## USAGE -->
-<!-- ### Status LEDs -->
-
 
 ## CONFIGURATION 
 
@@ -54,16 +49,16 @@ Developed, assembled, and tested in [Christchurch, New Zealand](https://www.goog
 
 ### Hardware Setup
 
-1. Connect the KIWI-80A to the Computer through the USB Linker.
+1. Connect the KIWI to the Computer through the USB Linker.
 2. Power ON the ESC.
 3. Open up the Configurator on the computer:
-    - Port Select' the USB linker COM port.
-    - 'Connect' to the ESC.
-    - 'Read' the settings.
+    - `Port Select` the USB linker COM port.
+    - `Connect` to the ESC.
+    - `Read` the settings.
     - Update to your chosen settings.
-    - 'Save' the settings.
-    - 'Disconnect' from the ESC.
-7. Power OFF the ESC and unplug .
+    - `Save` the settings.
+    - `Disconnect` from the ESC.
+7. Power OFF the ESC and unplug.
 8. Test the ESC is operating as expected.
 10. Kick some bot.
 
