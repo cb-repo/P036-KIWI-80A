@@ -1,4 +1,4 @@
-# KIWI - 80A v1.0
+# KIWI - 80A v1.0 *beta*
 
 <img src="assets/KIWI_Front.JPG" width="300"> <img src="assets/KIWI_Back.JPG" width="300"> 
 
