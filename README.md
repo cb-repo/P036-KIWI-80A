@@ -10,6 +10,9 @@ The product is named after the [Kiwi](https://en.wikipedia.org/wiki/Kiwi_(bird))
 
 Developed, assembled, and tested in [Christchurch, New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand), by Connor Benton.
 
+NOTE:
+*We have found an issue with some of the initial batch that caused the incorrect FW version to be loaded on from the factory. Please check all v1.0 ESC's to ensure they are up to the latest version (v2.19). FW binaries are avalible for downlaod from the FW folder in this repository.*
+
 ## FEATURES
 
 - Single brushless motor output.
@@ -28,7 +31,7 @@ Developed, assembled, and tested in [Christchurch, New Zealand](https://www.goog
 - **Voltage Input:** 2-8S LiPo (6.0-33.6V)
 - **Current Output:** 80A  
 - **Signal Input:** DShot (300/600), PWM, OneShot, Multishot
-- **AM32 Version:** [v2.18](https://github.com/am32-firmware/AM32/releases/tag/v2.18)
+- **AM32 Version:** [v2.19](https://github.com/am32-firmware/AM32/releases/tag/v2.19)
 
 ## PACKAGE INCLUDES
 
