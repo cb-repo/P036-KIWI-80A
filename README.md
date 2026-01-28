@@ -10,33 +10,32 @@ The product is named after the [Kiwi](https://en.wikipedia.org/wiki/Kiwi_(bird))
 
 Developed, assembled, and tested in [Christchurch, New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand), by Connor Benton.
 
-NOTE:
-*We have found an issue with some of the initial batch that caused the incorrect FW version to be loaded on from the factory. Please check all v1.0 ESC's to ensure they are up to the latest version (v2.19). FW binaries are avalible for downlaod from the FW folder in this repository.*
-
 ## FEATURES
 
-- Single brushless motor output.
-- Configurable Uni-Directional or Bi-Directional output.
-- Status RBG LED to indicate run mode, fault and calibration.
+- Single configurable brushless motor output.
+- All high-power I/O are along one edge, making it ideal to tuck into a corner of your robot.
+- Status RBG LED to indicate run and fault modes.
+- Large TVS diode to protect against voltage spikes.
 - Configurable under-voltage, over-current, over-temperature, and stall detection protections.
 - KISS standard telemetry output to allow real-time monitoring during usage.
 - Sinusoidal startup mode
 - Easy-to-solder bulk decoupling capacitor pads.
-- Failsafe checks for loss of connection with radio.
 
 ## SPECIFICATIONS
 
-- **Dimensions:** 35x18x9mm *incl heatsink*
-- **Weight:** 9g *bare*, 14g *incl provided capacitor+wires*
+- **Dimensions:** 30x36x10mm *incl capacitors*
+- **Weight:** 14g *incl provided capacitor*
 - **Voltage Input:** 2-8S LiPo (6.0-33.6V)
 - **Current Output:** 80A  
 - **Signal Input:** DShot (300/600), PWM, OneShot, Multishot
-- **AM32 Version:** [v2.19](https://github.com/am32-firmware/AM32/releases/tag/v2.19)
+- **AM32 Version:** [v2.20](https://github.com/am32-firmware/AM32/releases/tag/v2.20)
 
 ## PACKAGE INCLUDES
 
-- 1x KIWI-80A ESC w/ heatsink
-- 1x 35V 470uF capacitor
+<img src="assets/package_includes.jpg" width="300">
+
+- 1x KIWI-80A ESC
+- 2x 35V 470uF capacitor
 - 1x 90mm 16AWG power input cable *\*pair\**
 - 1x 90mm 3p DuPoint signal input cable
 
