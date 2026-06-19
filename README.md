@@ -6,7 +6,7 @@
 
 The KIWI is a compact and powerful brushless speed controller purpose-built for combat robotics It runs AM32 firmware: offering smooth throttle response, dynamic braking, and configurability via a standard USB serial dongle, ready to drop into any serious robot build.
 
-The product is named after the [Kiwi](https://en.wikipedia.org/wiki/Kiwi_(bird)), the iconic flightless bird endemic to New Zealand.
+The product is named after the [Kiwi](https://en.wikipedia.org/wiki/Kiwi_(bird)), the iconic flightless bird and national symbol of New Zealand. Fiercely territorial, it has powerful legs strong enough to outrun a person, and can live for several decades in the wild.
 
 Developed, assembled, and tested in [Christchurch, New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand), by Connor Benton.
 
