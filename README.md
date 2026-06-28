@@ -1,6 +1,6 @@
-# KIWI - 80A v2.0
+# KIWI - 80A v2.2
 
-<img src="assets/KIWI_Front.JPG" width="300"> <img src="assets/KIWI_Back.JPG" width="300"> 
+<img src="assets/KIWI_Front.JPG" width="300"> <img src="assets/KIWI_Back.JPG" width="300">  <img src="assets/KIWI_FrontCaps.JPG" width="300"> 
 
 <img src="assets/kiwi.jpg" width="300">
 
@@ -23,8 +23,8 @@ Developed, assembled, and tested in [Christchurch, New Zealand](https://www.goog
 
 ## SPECIFICATIONS
 
-- **Dimensions:** 30x36x10mm *incl capacitors*
-- **Weight:** 9g
+- **Dimensions:** 30x27x8mm *base*, 30x40x10mm *incl capacitors*
+- **Weight:** 10g
 - **Voltage Input:** 2-8S LiPo (6.0-33.6V)
 - **Current Output:** 80A  
 - **Signal Input:** DShot (300/600), PWM, OneShot, Multishot
